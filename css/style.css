@@ -1,4 +1,5 @@
 
+
 /*Table of Content
 
 
@@ -1044,7 +1045,7 @@ ul.port-nav-list li a.active {
 /*------- 12. Testimonial area css starts --------*/
 
 .testimonial-area .section-title h2 {
-    color: #fff;
+    color:#fff;
 }
 
 .testimonial-area{
@@ -1054,7 +1055,7 @@ ul.port-nav-list li a.active {
     background-position: center center;
     background-attachment: fixed;
     position: relative;
-    z-index: 1;
+    z-index:1;
 }
 .testimonial-area:before{
     position: absolute;
@@ -1099,7 +1100,50 @@ ul.port-nav-list li a.active {
     border-radius: 50%;
     overflow: hidden;
 }
+.single-testimonial h4 {
+    margin: 73px 0 0;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.testi-comment i {
+    font-size: 30px;
+    color: #00B0DC;
+}
+.single-testimonial h7 {
+    margin: 8px 0 0;
+    font-weight: 100;
+    font-size: 15px;
+}
 
+.single-testimonial h6 {
+    margin: 10px 0 0;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.testi-comment i {
+    font-size: 30px;
+    color: #00B0DC;
+}
+.single-testimonial h5 {
+    margin: 10px 0 0;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.testi-img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.testii-img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin:55px 0 0;
+    overflow: hidden;
+}
 .testi-img img {
     width: 100%;
     height: 100%;
